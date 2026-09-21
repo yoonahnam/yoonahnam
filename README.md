@@ -65,7 +65,5 @@
 
 ### 📚 Learning & Practice
 
-### 📚 Learning & Practice
-
 - **AWS AI Intensive** — Learned real-time data ingestion with Lambda and Kinesis, analysis with Comprehend and Rekognition, RAG Q&A with Bedrock Knowledge Bases, and human-approval workflows with Step Functions
 - **Azure AI Project** — Learned to train and deploy ML models with Azure ML, design AI Search indexes for RAG, and generate evidence-based reports with Azure OpenAI
