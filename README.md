@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yoona Nam 👋</h1>
+<h1 align="center">Hi, I'm Yoonah Nam 👋</h1>
 
 <p align="center"><b>Developer who plans new services, launches them on the web, and aims to turn them into businesses</b></p>
 
@@ -6,7 +6,6 @@
 
 ### 👩‍💻 About Me
 
-- Computer Science major 
 - Interested in **AI** and **security**
 - Passionate about **monetization** and **startups** — turning ideas into real businesses
 - Exploring **cloud (AWS, Azure)**, real-time data pipelines, and **RAG** systems
@@ -57,7 +56,7 @@
 ### 🤝 Clubs & Activities
 
 - **Summer Team Hackathon** (2026.08) — Built SecretSong, a real-time security monitoring & SOAR agent, in a 3-person team over 2 days (AWS intensive program)
-- **Sookmyung Global Exploration Program** · Team Leader (2026) — Refined Pillioo with feedback from a Schrödinger engineer, MongoDB's HQ in New York, and Amazon's local office, where we pitched our business model
+- **Sookmyung Global Exploration Program** · Team Leader (2026.04 ~ 2026.07 ) — Refined Pillioo with feedback from a Schrödinger engineer, MongoDB's HQ in New York, and Amazon's local office, where we pitched our business model
 - **Global Founders Club (GFC), Cohort 1** (2026.03 ~ 2026.07) — Sinchon startup club; defined and validated a problem for the global market with LowBite (team-planned, solo-developed)
 - **Winter Team Hackathon** (2025.12) — Built Plant for Me, an Azure OpenAI-based service, in a 4-person team
 - **R&Dix** (2025.02 ~ present) — Studied operating systems and FUSE, leading to the H-IMFS project
